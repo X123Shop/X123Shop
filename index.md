@@ -10,6 +10,6 @@
                 color:rgb(0,0,0);
             }
         </style>
-        <p id= title>Buy A Rank</p>
+        Buy A Rank
         <div class="powr-ecommerce" id="4557b90c_1592345924"></div><script src="https://www.powr.io/powr.js?platform=embed"></script>          </body>
 </html>
